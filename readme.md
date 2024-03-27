@@ -1,4 +1,4 @@
-# **Better Auth** V1
+# **Better Auth** V1.0 Beta
 ### Made In Python By **[Anurag](https://anuragcode.com)**
 
 > [!NOTE]
